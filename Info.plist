@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDisplayName</key><string>WK68 Control</string>
+  <key>CFBundleExecutable</key><string>WK68 Control</string>
+  <key>CFBundleIdentifier</key><string>local.codex.wk68-control</string>
+  <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+  <key>CFBundleName</key><string>WK68 Control</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>0.3.3</string>
+  <key>CFBundleVersion</key><string>6</string>
+  <key>LSMinimumSystemVersion</key><string>13.0</string>
+  <key>NSHumanReadableCopyright</key><string>Built for the WEIKAV WK68</string>
+  <key>NSInputMonitoringUsageDescription</key><string>WK68 Control needs access to the keyboard's vendor HID interface to change lighting.</string>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>
